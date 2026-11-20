@@ -162,6 +162,3 @@ Le programme gère notamment :
 - Les dépassements de capacité des entiers.
 - Les opérations invalides dans le Checker.
 
-## Auteur
-
-Projet Push Swap réalisé en Go dans le cadre de la formation informatique.
